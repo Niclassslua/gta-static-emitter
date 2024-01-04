@@ -75,10 +75,10 @@ HIDDEN_RADIO_16_SILVERLAKE
 
 ## Unknown Radio Stations:
 
-hash_09E34587
+hash_09E34587 (Used in China Town, Random Bar in Paleto, Random Vinewood Music Rock Bar
 
-hash_B5DD6F19
+hash_B5DD6F19 (Used in China Town & 2 random beach boom boxes)
 
-hash_B0962EE0
+hash_B0962EE0 (Commonly used in Mechanic Shops, Garages)
 
-hash_C1400C2E (Seems to be Ammunation)
+hash_C1400C2E (Used only in Ammunation, Ammunation Advertisement)
